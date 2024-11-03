@@ -1,6 +1,6 @@
 import java.util.*;
 public class StudentgradeTracker{
-    public static void mainn(String[] args){
+    public static void main(String[] args){
         Scanner s=new Scanner(System.in);
         int SubMarks=s.nextInt();
         int[] marks=new int[SubMarks];
