@@ -1,5 +1,5 @@
 import java.util.*;
-public class StudentgradeTracker{
+public class Studentgrade{
     public static void main(String[] args){
         Scanner s=new Scanner(System.in);
         int SubMarks=s.nextInt();
